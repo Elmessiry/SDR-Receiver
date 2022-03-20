@@ -1,0 +1,25 @@
+A. Transmitter Specifications
+
+   The three mystery signals are generated with the M6 transmitter
+   standard in m6params.m, described in SRD, Chap 15, with the 
+   following RF parameters:
+
+   mysteryA:  SRRCLength:     5
+              SRRCrolloff:    0.25
+              T_t:            9e-6 s
+              f_if:           1.88 MHz
+              f_s:            820 kHz 
+
+   mysteryB:  SRRCLength:     3
+              SRRCrolloff:    0.35
+              T_t:            7.3e-6 s
+              f_if:           1.92 MHz
+              f_s:            680 kHz
+
+   mysteryC:  SRRCLength:     4
+              SRRCrolloff:    0.3
+              T_t:            8.2e-6 s
+              f_if:           2.4 MHz
+              f_s:            760 kHz
+
+
